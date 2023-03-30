@@ -24,7 +24,7 @@ I am a Frontend Web Developer from Abuja, Nigeria.
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JolomiTee)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolomiTee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolomiTee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
