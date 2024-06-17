@@ -1,4 +1,4 @@
-Hi 👋 My name is Jolomi Taiwo
+I'm JOLOO 👋
 =============================
 
 Frontend Web Developer
