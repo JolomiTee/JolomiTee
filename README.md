@@ -7,7 +7,7 @@ Frontend Web Developer
 * 🌍  I'm based in FCT, Abuja
 * 🖥️  See my portfolio at [jolomitee.vercel.app](http://jolomitee.vercel.app)
 * ✉️  You can contact me at [jolomitee@gmail.com](mailto:jolomitee@gmail.com)
-* 🧠  I'm learning NodeJS and VueJS at the moment
+* 🧠  I'm currently building up on the MERN Stack and VueJS at the moment
 * 🤝  I'm open to collaborating on building Web User Interfaces, Landing pages and making things work
 * ⚡  Lets Go!
 
