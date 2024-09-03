@@ -1,7 +1,7 @@
 I'm JOLOO 👋
 =============================
 
-Frontend Web Developer
+Frontend Engineer with 3 years of experience specializing in creating functional, responsive, and visually appealing websites. He excels at transforming design concepts into interactive and high-quality web experiences, focusing on seamless user experiences.
 ----------------------
 
 * 🌍  I'm based in FCT, Abuja
