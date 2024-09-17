@@ -1,7 +1,7 @@
 I'm JOLOO 👋
 =============================
 
-Frontend Engineer with 3 years of experience specializing in creating functional, responsive, and visually appealing websites. He excels at transforming design concepts into interactive and high-quality web experiences, focusing on seamless user experiences.
+A Frontend Engineer with 2 years of work experience specializing in creating functional, responsive, and visually appealing websites. Excellent with transforming design concepts into interactive and high-quality web experiences, delivering seamless and quality user experiences.
 ----------------------
 
 * 🌍  I'm based in FCT, Abuja
