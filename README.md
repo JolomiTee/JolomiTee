@@ -4,13 +4,13 @@ I'm JOLOO 👋
 A Frontend Engineer with 2 years of work experience specializing in creating functional, responsive, and visually appealing websites. Excellent with transforming design concepts into interactive and high-quality web experiences, delivering seamless and quality user experiences.
 ----------------------
 
-* 🌍  I'm based in FCT, Abuja
+* 🌍  I'm based in FCT, Abuja, Nigeria
 * 🖥️  See my portfolio at [jolomitee-v2.vercel.app](http://jolomitee-v2.vercel.app)
 * ✉️  You can contact me at [jolomitee@gmail.com](mailto:jolomitee@gmail.com)
 * 🧠  <b>I'm currently:</b>
-    * Building up on the MERN Stack at the moment
-    * Learning Python
-    * Learning how to implement real time communication features on the web with Socket.io and WebRTC
+    * Building a [Discord Clone](https://rediscord-black.vercel.app) with the MERN Stack at the moment
+    * Learning Python programming language
+    * Learning how to implement real time communication features with Socket.io
     * A student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering track
     * A Linux Powered User
 * 🤝  I'm open to collaborations, part time and full time roles/gigs on building Web UIs and making things work
