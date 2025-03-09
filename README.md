@@ -1,7 +1,7 @@
 I'm JOLOO 👋
 =============================
 
-A Frontend Engineer with 2 years of work experience specializing in creating functional, responsive, and visually appealing websites. Excellent with transforming design concepts into interactive and high-quality web experiences, delivering seamless and quality user experiences.
+A Frontend Engineer with close to 3 years of work experience specializing in creating functional, responsive, and visually appealing websites. Excellent with transforming design concepts into interactive and high-quality web experiences, delivering seamless and quality user experiences.
 ----------------------
 
 * 🌍  I'm based in FCT, Abuja, Nigeria
@@ -9,7 +9,7 @@ A Frontend Engineer with 2 years of work experience specializing in creating fun
 * ✉️  You can contact me at [jolomitee@gmail.com](mailto:jolomitee@gmail.com)
 * 🧠  <b>I'm currently:</b>
     * Building a [Discord Clone](https://rediscord-black.vercel.app) with the MERN Stack at the moment
-    * Learning Bash Scripting, React Testing with Jest and RTL and using GSAP
+    * Learning Bash Scripting, React Testing with Jest and RTL and GSAP
     * A student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering track
     * A Linux Powered User (Linux Mint)
 * 🤝  I'm open to collaborations, part time and full time roles/gigs on building Web UIs and making things work
