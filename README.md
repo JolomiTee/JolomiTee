@@ -10,6 +10,7 @@ A Frontend Engineer with close to 3 years of work experience specializing in cre
 * 🧠  <b>I'm currently:</b>
     * Building a [Discord Clone](https://rediscord-black.vercel.app) with the MERN Stack at the moment
     * Learning Bash Scripting, React Testing with Jest and RTL and GSAP
+    * Learning Java programming language
     * A student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering Diploma Course
     * A Linux Powered User (Linux Mint)
 * 🤝  I'm open to collaborations, part time and full time roles/gigs on building Web UIs and making things work
