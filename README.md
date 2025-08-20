@@ -8,9 +8,9 @@ Frontend Engineer with close to 3 years of work experience specializing in creat
 * 🖥️  See my portfolio at [jolomitee-v2.vercel.app](http://jolomitee-v2.vercel.app)
 * ✉️  You can contact me at [jolomitee@gmail.com](mailto:jolomitee@gmail.com)
 * 🧠  <b>I'm currently:</b>
-    * Building a [Discord Clone](https://rediscord-black.vercel.app) with the MERN Stack at the moment
+    * Building QuestionBox (yet to be released) a fullstack NextJs Web app at the moment
     * Building Greenbarter 💸
-    * Learning Bash Scripting and GSAP
+    * Building with Marathona
     * Learning Java programming language
     * Student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering Diploma Course
     * Linux Powered User (Linux Mint)
