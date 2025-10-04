@@ -11,7 +11,7 @@ Frontend Engineer with close to 3 years of work experience specializing in creat
     * Building QuestionBox (yet to be released) a fullstack NextJs Web app at the moment
     * Building Greenbarter 💸
     * Building with Marathona
-    * Learning Java programming language
+    * Learning Java and PHP programming languages for reasons beyond my control
     * Student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering Diploma Course
     * Linux Powered User (Linux Mint)
 * 🤝  I'm open to collaborations, part time and full time roles/gigs on building Web UIs and making things work
