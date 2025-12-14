@@ -12,10 +12,9 @@ Frontend Engineer with close to 3 years of work experience specializing in creat
     * Building Greenbarter 💸
     * Building with Marathona
     * Learning Java and PHP programming languages for reasons beyond my control
-    * Student at [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering - Backend Engineering Diploma Course
+    * Graduate from [AltSchool Africa](https://altschoolafrica.com/), in the School of Engineering with a Backend Engineering Diploma
     * Linux Powered User (Linux Mint)
 * 🤝  I'm open to collaborations, part time and full time roles/gigs on building Web UIs and making things work
-* ⚡  Lets Go!
 
 ### Skills
 
